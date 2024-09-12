@@ -24,9 +24,13 @@ _This code can be used, but remember: credit, where credit's due!_
 <br>
 
 In order to "plot" the Elipse we're using the **discriminant**: <br>
+
 $D = B^2 - 4 * A * C$<br>
+
 and the **midnight formula**:<br>
-$\frac{-B - sqrt{D}}{2 * A}$ <br> 
+
+$\frac{-B - sqrt{D}}{2 * A}$ <br>
+
 $\frac{B - sqrt{D}}{2 * A}$ <br>
 <br>
 **redefine**:<br>
