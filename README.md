@@ -1,4 +1,4 @@
-# Raytrace-Rubber-Duck
+r# Raytrace-Rubber-Duck
 Simplistic implementation of Ellipses in a C++ raytracing environment
 
 author: Laura Livers
@@ -25,6 +25,6 @@ $\frac{B - sqrt{D}}{2 * A}$ <br>
 <br>
 redefine:<br>
 $A = \frac{u_x^2}{a^2}+\frac{u_y^2}{b^2}+\frac{u_z^2}{c^2}$<br>
-$B = 2 * \bigr[\frac{u_xv_x}{a^2}+\frac{u_xv_y}{b^2}+\frac{u_xv_z}{c^2}\bigr]$<br>
+$B = 2 * \Bigr[\frac{u_xv_x}{a^2}+\frac{u_xv_y}{b^2}+\frac{u_xv_z}{c^2}\Bigr]$<br>
 $C = \frac{v_x^2}{a^2}+\frac{v_y^2}{b^2}+\frac{v_z^2}{c^2}$<br>
 
