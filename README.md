@@ -1,4 +1,4 @@
-r# Raytrace-Rubber-Duck
+# Raytrace-Rubber-Duck
 Simplistic implementation of Ellipses in a C++ raytracing environment to create a rubber duck.
 
 author: Laura Livers
