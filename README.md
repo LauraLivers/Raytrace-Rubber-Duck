@@ -9,7 +9,9 @@ and resulted in Grade A.
 
 _This code can be used, but remember: credit, where credit's due!_
 
-## Formula
+![](RubberDuck.png)
+
+## Formula implemented in ellipse.cpp
 **Ray**      : $w = p + \lambda u$ <br>
 
 **Ellipse**  : $\frac{x^2}{a^2}+\frac{y^2}{b^2}+\frac{z^2}{c^2}=1$<br>
@@ -40,3 +42,8 @@ $B = 2 * \Bigr[\frac{u_xv_x}{a^2}+\frac{u_xv_y}{b^2}+\frac{u_xv_z}{c^2}\Bigr]$<b
 <br>
 $C = \frac{v_x^2}{a^2}+\frac{v_y^2}{b^2}+\frac{v_z^2}{c^2}$<br>
 
+**to create the entire Rubber Duck, take note of the file scn.cpp where all coordinates 
+of the different body parts are made to depend on each other so the duck can be placed
+randomly within the scene**
+
+These files are part of a bigger skeleton, that wasn't authored by me and therefor will not be published as such. If a glimpse of it helps to solve a problem, feel free to reach out and I'll send you a copy.
