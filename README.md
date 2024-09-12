@@ -10,4 +10,4 @@ and resulted in Grade A.
 _This code can be used, but remember: credit, where credit's due!_
 
 ## Formula
-Ray    : w = p + \lambda u
+Ray    : $w = p + \lambda u$
